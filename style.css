@@ -69,7 +69,6 @@ body {
 /* 2.) Image Container*/
 .image-container {
   height: 70vh;
-  border: solid;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,13 +99,11 @@ body {
 .container {
   padding: 0 5vw;
   display: flex;
-  border: solid;
   justify-content: center;
   /* display: none; */
 }
 
 article {
-  border: solid;
   padding: 20px 0;
 }
 article > h2 {
@@ -121,3 +118,4 @@ article > h2 {
   text-align: center;
   line-height: 22px;
 }
+
