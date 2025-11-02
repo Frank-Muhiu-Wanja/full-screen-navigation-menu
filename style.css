@@ -79,7 +79,7 @@ body {
   width: 250px;
   height: 250px;
   margin: 20px;
-  border: 2px solid teal;
+ 
 }
 
 .img-one {
@@ -118,4 +118,5 @@ article > h2 {
   text-align: center;
   line-height: 22px;
 }
+
 
